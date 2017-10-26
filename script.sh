@@ -1,4 +1,4 @@
-#!/usr/bin/env bashi
+#!/usr/bin/env bash
 clear
 
 
