@@ -1,2 +1,3 @@
 # Validation.DFS11.S1
 Validation projet Shell
+Veiller à avoir le xenial.box dans le même répertoire.......
